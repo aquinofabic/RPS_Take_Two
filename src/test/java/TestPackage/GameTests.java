@@ -17,8 +17,9 @@ public class GameTests {
     }
 
     @Test
-    public void testResultNotNull
+    public void testResultNotNull() {
         Game game = new RpsGame();
+    }
     @Test
     public void testGetGameResult(){
         Game game = new RpsGame();

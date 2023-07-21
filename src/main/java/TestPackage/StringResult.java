@@ -1,9 +1,12 @@
 package TestPackage;
 
 public class StringResult implements Result{
-
-    public String getResult() {
-        return null;
+    private String getResult(String rock) {
+    return "hello";
     }
 
+    @Override
+    public String getResult() {
+    return "hellooo";
+    }
 }
