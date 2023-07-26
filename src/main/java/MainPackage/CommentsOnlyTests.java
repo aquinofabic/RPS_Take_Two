@@ -1,7 +1,7 @@
-package TestPackage;
+package MainPackage;
 
-public class CommentsOnly {
-    // This class doesn't have any methods or fields, as its sole purpose is to provide comments.
+public class CommentsOnlyTests {
+// This class doesn't have any methods or fields, as its sole purpose is to provide comments.
 }
 
 /*
